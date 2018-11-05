@@ -1,2 +1,4 @@
 content of test.txt
 test remote name change
+
+push -u
