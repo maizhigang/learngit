@@ -6,3 +6,4 @@ local add new line;
 
 add one line by remote
 
+remote add one line again
