@@ -11,3 +11,5 @@ dev 2222222222222222222222222
 
 bug 1
 bug 2
+
+i want to add two remote,one is in github and another is in gitee
