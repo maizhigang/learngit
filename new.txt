@@ -20,3 +20,5 @@ git fetch origin master:tmp
 //在本地新建一个tmp分支,并将远程origin仓库的master分支下载到本地的tmp分支
 git fetch origin master:tmp
 //在本地新建一个tmp分支,并将远程origin仓库的master分支下载到本地的tmp分支
+
+change st and push to origin again`
