@@ -13,3 +13,6 @@ bug 1
 bug 2
 
 i want to add two remote,one is in github and another is in gitee
+
+git fetch origin master:tmp
+//在本地新建一个tmp分支,并将远程origin仓库的master分支下载到本地的tmp分支
